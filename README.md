@@ -8,3 +8,4 @@ A Semi-Automatic auto fisher for Destiny 2
 - Run Fish.py
 
 # Tutorial
+https://youtu.be/lm67ZbzbugA
